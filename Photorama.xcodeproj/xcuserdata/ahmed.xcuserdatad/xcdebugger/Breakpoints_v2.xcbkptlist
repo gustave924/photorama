@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photorama/PhotosViewController.swift"
+            timestampString = "584670952.349125"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Photorama.PhotoResult) -&gt; () in Photorama.PhotosViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Photorama"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IosCode/Photorama/Photorama/PhotosViewController.swift"
+                  timestampString = "584670952.3821549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Photorama.PhotoResult) -&gt; () in Photorama.PhotosViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Photorama"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IosCode/Photorama/Photorama/PhotosViewController.swift"
+                  timestampString = "584670952.384699"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photorama/PhotosViewController.swift"
+            timestampString = "584671001.3088371"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "updateImageView(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Photorama.ImageResult) -&gt; () in Photorama.PhotosViewController.updateImageView(for: Photorama.Photo) -&gt; ()"
+                  moduleName = "Photorama"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IosCode/Photorama/Photorama/PhotosViewController.swift"
+                  timestampString = "584671001.321633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Photorama.ImageResult) -&gt; () in Photorama.PhotosViewController.updateImageView(for: Photorama.Photo) -&gt; ()"
+                  moduleName = "Photorama"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IosCode/Photorama/Photorama/PhotosViewController.swift"
+                  timestampString = "584671001.324147"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photorama/PhotosViewController.swift"
+            timestampString = "584671003.543029"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "updateImageView(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Photorama.ImageResult) -&gt; () in Photorama.PhotosViewController.updateImageView(for: Photorama.Photo) -&gt; ()"
+                  moduleName = "Photorama"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IosCode/Photorama/Photorama/PhotosViewController.swift"
+                  timestampString = "584671003.553103"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Photorama.ImageResult) -&gt; () in Photorama.PhotosViewController.updateImageView(for: Photorama.Photo) -&gt; ()"
+                  moduleName = "Photorama"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IosCode/Photorama/Photorama/PhotosViewController.swift"
+                  timestampString = "584671003.559533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
